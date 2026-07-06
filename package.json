@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-sortable-list",
-  "version": "0.0.25-0.0.1",
+  "name": "@react-native-ohos/react-native-sortable-list",
+  "version": "0.0.26",
   "description": "React Native Sortable List component",
   "main": "index.js",
   "harmony": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gitim/react-native-sortable-list.git"
+    "url": "git+https://github.com/react-native-oh-library/react-native-sortable-list.git"
   },
   "keywords": [
     "react-native",
@@ -18,9 +18,9 @@
   "author": "Tim Gibadullin <tim.gibadullin@gmail.com> (https://github.com/gitim)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gitim/react-native-sortable-list/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-sortable-list/issues"
   },
-  "homepage": "https://github.com/gitim/react-native-sortable-list",
+  "homepage": "https://github.com/react-native-oh-library/react-native-sortable-list",
   "dependencies": {
     "prop-types": "^15.5.10"
   }
